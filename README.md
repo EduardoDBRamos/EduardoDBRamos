@@ -16,6 +16,7 @@ My favorite language is **Java**:coffee:, but I'm studying cloud, devops process
 ---
 :see_no_evil::hear_no_evil::speak_no_evil:
 - [x] Junior Developer
+- [x] Middle Developer
 - [ ] Senior Developer
 - [ ] Specialist Developer
 - [ ] Expert Developer
