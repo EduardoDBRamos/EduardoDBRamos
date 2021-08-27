@@ -6,12 +6,13 @@
   "lastName": "Ramos",
   "age": 26
   "nationality":"Brazilian"
-  "hobbies":"[🎮, 🎧, ☕, ]"
+  "hobbies":"[🎮, 🎧, ☕]"
 }
 ```
 I am a Husband:couple:, a father of cats:scream_cat::smile_cat::joy_cat:
  and in my spare time I work as an Middle System analyst.
 My favorite language is **Java**:coffee:, but I'm studying cloud, devops processes and a little of front-end.
+👶🍼 - Loading...
 
 ---
 :see_no_evil::hear_no_evil::speak_no_evil:
