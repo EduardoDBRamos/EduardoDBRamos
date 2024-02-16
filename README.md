@@ -4,7 +4,7 @@
 {
   "firstName": "Eduardo",
   "lastName": "Ramos",
-  "age": 27
+  "age": 28
   "nationality":"Brazilian"
   "hobbies":"[🎮, 🎧, ☕]"
 }
@@ -17,7 +17,8 @@ My favorite language is **Java**:coffee:, but I'm studying cloud, devops process
 :see_no_evil::hear_no_evil::speak_no_evil:
 - [x] Junior Developer
 - [x] Middle Developer
-- [ ] Senior Developer
+- [x] Senior Developer
+- [x] Specialist Developer
 - [ ] Software Architect
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-dbramos/)](https://www.linkedin.com/in/eduardo-dbramos/)
