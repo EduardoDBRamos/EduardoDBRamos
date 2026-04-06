@@ -4,7 +4,7 @@
 {
   "firstName": "Eduardo",
   "lastName": "Ramos",
-  "age": 29
+  "age": 30
   "nationality":"Brazilian"
   "hobbies":"[🎮, 🎧, ☕]"
 }
